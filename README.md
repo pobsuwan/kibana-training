@@ -4,7 +4,7 @@ Kibana training in softnix
 ![elk stack](http://www.sixtree.com.au/images/posts/elk-topology.png "elk stack")
 
 ### ELK Stack
-![elk stack](https://raw.githubusercontent.com/blacktop/docker-elk/master/docs/elk-logo.png "elk stack")
+![elk stack](https://raw.githubusercontent.com/blacktop/docker-elk/master/docs/img/elk-logo.png "elk stack")
 * [Elasticsearch](https://www.elastic.co/) is a distributed data store
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
 * [Kibana](https://www.elastic.co/products/kibana) is a data analysis tool that helps to visualize your data 
